@@ -1,0 +1,48 @@
+    h1{
+        display: block;
+        font-size: 2em;
+        text-align: center;
+        font-weight: bold;
+        background-color: aqua;
+
+    }
+    h2{
+        display: block;
+        font-size: 3em;
+        text-align: center;
+        font-weight: italic;
+        background-color: aqua;
+    }
+    h3{
+        display: block;
+        font-size: 2em;
+        text-align: left;
+        font-weight: italic;
+        background-color: aqua;
+
+    }
+    header{
+        font-display: bold;
+        text-align: center;
+        font-style:italic;
+        font-weight: bolder;
+        font-size: 2em;
+        font-variant: small-caps;
+        color: aqua;
+
+    }
+    ul{
+        list-style: none;
+        text-align: left;
+        font-style: normal;
+        font-size: large;
+    }
+    p{
+        text-align: center;
+        text-decoration-style: wavy;
+        font-size:large;
+        font-stretch:wider;
+        font-style: italic;
+        text-decoration: aqua;
+    }
+
